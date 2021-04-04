@@ -1,0 +1,16 @@
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\bin\Debug\net5.0\ParkingLot-SquadStack.exe
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\bin\Debug\net5.0\ParkingLot-SquadStack.deps.json
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\bin\Debug\net5.0\ParkingLot-SquadStack.runtimeconfig.json
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\bin\Debug\net5.0\ParkingLot-SquadStack.runtimeconfig.dev.json
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\bin\Debug\net5.0\ParkingLot-SquadStack.dll
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\bin\Debug\net5.0\ref\ParkingLot-SquadStack.dll
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\bin\Debug\net5.0\ParkingLot-SquadStack.pdb
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\obj\Debug\net5.0\ParkingLot-SquadStack.csprojAssemblyReference.cache
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\obj\Debug\net5.0\ParkingLot-SquadStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\obj\Debug\net5.0\ParkingLot-SquadStack.AssemblyInfoInputs.cache
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\obj\Debug\net5.0\ParkingLot-SquadStack.AssemblyInfo.cs
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\obj\Debug\net5.0\ParkingLot-SquadStack.csproj.CoreCompileInputs.cache
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\obj\Debug\net5.0\ParkingLot-SquadStack.dll
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\obj\Debug\net5.0\ref\ParkingLot-SquadStack.dll
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\obj\Debug\net5.0\ParkingLot-SquadStack.pdb
+C:\Users\parathi\Desktop\D&A\ParkingLot\ParkingLot-SquadStack\obj\Debug\net5.0\ParkingLot-SquadStack.genruntimeconfig.cache
