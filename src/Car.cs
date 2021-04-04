@@ -1,5 +1,6 @@
 namespace ParkingLot_SquadStack
 {
+    //This car class consists of vehicle number and the age of driver which is stored.
     public class Car
     {
         string vehicleNumber;

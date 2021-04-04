@@ -7,12 +7,14 @@ namespace ParkingLot_SquadStack
 {
     class Program
     {
+        //This is Client Application Start point.
         public static void Main(string[] args)
         {
             IList<string> result = ReadFromFile();
             WriteToFile(result);
         }
 
+        //This method writes the given list of string to a file.
         public static void WriteToFile(IList<string> output)
         {
             using StreamWriter file = new("output.txt");
@@ -25,11 +27,11 @@ namespace ParkingLot_SquadStack
             }
         }
 
+        //This method reads the input as string from the given file.
         public static IList<string> ReadFromFile()
         {
             IList<string> result = new List<string>();
             ParkingLot parkingLot = null;
-            //result.Add("fndasda");
             try
             {
                 StreamReader reader = new StreamReader("input.txt");
@@ -38,8 +40,8 @@ namespace ParkingLot_SquadStack
                     string line = reader.ReadLine();
                     while (line != null)
                     {
-                        //Console.WriteLine(line);
                         string[] inputs = line.Split(" ");
+                        //different commands and their respective actions are taken in this if.. else if.. else block
                         if (inputs[0].Equals("Create_parking_lot"))
                         {
                             parkingLot = new ParkingLot(Convert.ToInt32(inputs[1]));
@@ -88,10 +90,6 @@ namespace ParkingLot_SquadStack
             catch (FileNotFoundException)
             {
                 Console.WriteLine("That file does not exist!");
-            }
-            catch (DirectoryNotFoundException)
-            {
-                Console.WriteLine("Directory does not exist!");
             }
             catch (IOException)
             {

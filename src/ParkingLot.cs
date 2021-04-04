@@ -4,6 +4,7 @@ using System.Text;
 
 namespace ParkingLot_SquadStack
 {
+    //This is the main class which contains the map of slots to the corresponding cars. Intially for all the slots we set the car object to null
     public class ParkingLot
     {
         SortedDictionary<int, Car> slotToCarMap;
